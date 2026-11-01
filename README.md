@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Olga!
 
-<!--
-**creveezo/creveezo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computational Linguistics Student | Machine Learning & NLP**
 
-Here are some ideas to get you started:
+I'm a Computational Linguistics student at HSE University interested in Machine Learning and Natural Language Processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic and personal projects focus on:
+- Natural Language Processing and computational semantics
+- Deep Learning and neural network architectures
+- Statistical analysis and machine learning experiments
+- Python-based research and data analysis
+
+### Technical Skills
+
+- **Languages:** Python, SQL
+- **ML & Data Science:** PyTorch, scikit-learn, NumPy, pandas
+- **NLP:** Transformers, BERT, text processing, word embeddings
+- **Tools:** Git, Jupyter Notebook
+
+### Featured Projects
+
+- **Language Identification** — N-gram-based language identification and experimental analysis.
+- **Embedding Analysis** — Comparison of CBOW and SVD word representations.
+- **Deep Learning Experiments** — Neural network architectures and model evaluation.
+  
